@@ -1,7 +1,7 @@
 # Modern Javascript Course
 
 ![Last Commit](https://img.shields.io/github/last-commit/mjaaaa24/git-javascript-course)
-![License](https://img.shields.io/github/license/mjaaaa24/git-jabascript-course)
+![License](https://img.shields.io/github/license/mjaaaa24/git-javascript-course)
 
 This is a project following Brad Traversy's Modern Javascript from The Beginning 2.0 (2024).  
 
